@@ -14,13 +14,13 @@ Compatível com todos os dispositivos móveis e com uma interface de usuário bo
 <a href="https://barradenavegacaoq.netlify.app/"><strong>Demonstração ao vivo</strong></a>
 </div>
 
-![alt text](preview-navbar.jpg)
+![preview-navbar](https://github.com/daniel-portela/responsive-navigation-bar/assets/110783805/618d31ba-bbe0-4789-977c-2e94bbbb9fde)
 
-![alt text](preview-search.jpg)
+![preview-search](https://github.com/daniel-portela/responsive-navigation-bar/assets/110783805/427e6cb1-c760-4118-bbe9-05eb0fd47a89)
 
-![alt text](preview-login.jpg)
+![preview-login](https://github.com/daniel-portela/responsive-navigation-bar/assets/110783805/8cb6521e-93bf-41c6-bce2-04d2aa4011e1)
 
-![alt text](<navegação responsiva.jpg>)
+![navegação responsiva](https://github.com/daniel-portela/responsive-navigation-bar/assets/110783805/db185689-1c7b-48f2-b3ed-e717b85d0d45)
 
 Funcionalidades:
 
