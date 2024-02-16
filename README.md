@@ -54,7 +54,7 @@ Como utilizar:
 
 Para utilizar este projeto, basta incluir os arquivos HTML e CSS em seu projeto. Você pode personalizar os gradientes, estilos e conteúdo dos cartões conforme sua necessidade. Além disso, você pode estender este projeto adicionando mais cartões ou modificando a estrutura e estilos conforme desejado.
 
-Sinta-se à vontade para explorar, modificar e utilizar este projeto de cartões com gradientes em seus próprios projetos!
+Sinta-se à vontade para explorar, modificar e utilizar este projeto de navegação responsiva em seus próprios projetos!
 
 <br><b>Pré-requisitos:</b>
 
